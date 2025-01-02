@@ -27,16 +27,14 @@ Note: when make put or patch request for orders use user id to update the delive
 - Django 3.2+
 - Django REST framework 3.12+
 - djangorestframework-simplejwt 4.7+
-- psycopg2-binary 2.8+
-- django-cors-headers 3.7+
 
 ## Installation
 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/little-lemon-api.git
-    cd little-lemon-api
+    git clone https://github.com/Blackdukee/LittleLemonAPI.git
+    cd LittleLemonAPI
     ```
 
 2. Install `pipenv` if you haven't already:
